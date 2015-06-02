@@ -1,4 +1,4 @@
-# [thxSage]
+# thxSage
 
 
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
